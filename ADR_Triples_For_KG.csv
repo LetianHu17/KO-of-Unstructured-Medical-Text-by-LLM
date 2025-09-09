@@ -1,0 +1,36 @@
+FromEntity,Relation,ToEntity
+itolizumab,causes,shivering
+itolizumab,causes,chills
+itolizumab,causes,cold
+itolizumab,causes,breathlessness
+itolizumab,causes,fever
+itolizumab,causes,dry cough
+itolizumab,causes,nausea
+itolizumab,causes,vomiting
+itolizumab,causes,diarrhea
+itolizumab,causes,rash
+itolizumab,causes,dizziness
+itolizumab,causes,urticaria
+itolizumab,causes,wheezing
+itolizumab,causes,dyspnea
+itolizumab,causes,flushing
+itolizumab,causes,headache
+itolizumab,causes,hypersensitivity
+itolizumab,causes,hypertension
+itolizumab,indicated_for,cytokine release syndrome
+itolizumab,indicated_for,psoriasis
+itolizumab,indicated_for,rheumatoid arthritis
+itolizumab,has_mechanism,anti-CD6
+itolizumab,has_mechanism,selectively inhibiting CD6
+itolizumab,has_mechanism,downregulates production of proinflammatory cytokines
+itolizumab,has_mechanism,inhibiting major pathways of cytokine release
+itolizumab,contraindicated_in,hypersensitivity to murine proteins
+itolizumab,contraindicated_in,severe allergy
+itolizumab,contraindicated_in,immunocompromised state
+itolizumab,has_route,slow infusion
+itolizumab,has_dosage,25 mL/h
+itolizumab-related adverse reactions,has_onset,within 5 minutes of injection
+itolizumab-related adverse reactions,has_outcome,resolved after discontinuation and symptomatic treatment
+67-year-old male patient,has_condition,COVID-19
+67-year-old male patient,has_condition,diabetes
+67-year-old male patient,has_condition,hypertension

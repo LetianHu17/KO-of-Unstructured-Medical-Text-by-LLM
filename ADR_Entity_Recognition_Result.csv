@@ -1,0 +1,52 @@
+EntityName,ClassLabel
+itolizumab,DRUG
+hydrocortisone,DRUG
+pheniramine,DRUG
+COVID-19,DIS
+diabetes,DIS
+hypertension,DIS
+psoriasis,DIS
+rheumatoid arthritis,DIS
+cytokine release syndrome,DIS
+tuberculosis,DIS
+septic arthritis,DIS
+respiratory tract infection,DIS
+urinary tract infection,DIS
+secondary hemophagocytic lymphohistiocytosis,DIS
+shivering,ADR
+chills,ADR
+cold,ADR
+breathlessness,ADR
+fever,ADR
+dry cough,ADR
+nausea,ADR
+vomiting,ADR
+diarrhea,ADR
+rash,ADR
+dizziness,ADR
+urticaria,ADR
+wheezing,ADR
+dyspnea,ADR
+flushing,ADR
+headache,ADR
+hypersensitivity,ADR
+hypertension,ADR
+respiratory distress,SYM
+low oxygen saturation,SYM
+elevated respiratory rate,SYM
+C-reactive protein,LAB
+IL-6,LAB
+Ferritin,LAB
+Procalcitonin,LAB
+D-dimer,LAB
+LDH,LAB
+TLC,LAB
+Neutrophils,LAB
+ANC,LAB
+Leukocytes,LAB
+ALC,LAB
+67-year-old male,PT
+anti-CD6,MOA
+selectively inhibiting CD6,MOA
+downregulates the production of proinflammatory cytokines,MOA
+inhibiting major pathways of cytokine release,MOA
