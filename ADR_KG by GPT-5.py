@@ -107,13 +107,13 @@ for n, (x, y) in pos_inst.items():
 # -----------------------------
 # Drawing
 # -----------------------------
-fig = plt.figure(figsize=(24, 30), dpi=600)  # high DPI paper-ready
+fig = plt.figure(figsize=(36, 48), dpi=600)  # high DPI paper-ready
 ax = plt.gca()
 ax.set_axis_off()
 
 # Node styling
-ont_node_opts = dict(node_shape="o", node_size=2000, linewidths=0.8, edgecolors="#1f2937")
-inst_node_opts = dict(node_shape="o", node_size=1800, linewidths=0.8, edgecolors="#1f2937")
+ont_node_opts = dict(node_shape="o", node_size=5000, linewidths=0.8, edgecolors="#1f2937")
+inst_node_opts = dict(node_shape="o", node_size=5000, linewidths=0.8, edgecolors="#1f2937")
 
 # Colors
 ont_face = "#E9F2FF"   # light blue
@@ -125,7 +125,7 @@ nx.draw_networkx_nodes(G, pos, nodelist=inst_nodes, node_color=inst_face, **inst
 
 # Labels
 labels = {n: G.nodes[n].get("label", str(n)) for n in G.nodes}
-nx.draw_networkx_labels(G, pos, labels=labels, font_size=9)
+nx.draw_networkx_labels(G, pos, labels=labels, font_size=24)
 
 # Edge subsets
 edges_instance = [(u, v, k) for u, v, k, d in G.edges(keys=True, data=True) if d.get("kind") == "instance"]
@@ -145,19 +145,20 @@ nx.draw_networkx_edges(G, pos, edgelist=[(u, v) for u, v, _ in edges_mapping],
 # Edge labels (relation)
 edge_label_pos = 0.5
 edge_labels = {(u, v): G.edges[u, v, k]["relation"] for u, v, k in edges_ontology + edges_instance}
-nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels, font_size=8, label_pos=edge_label_pos, rotate=False)
+nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels, font_size=20, label_pos=edge_label_pos, rotate=False)
 
 # Horizontal separator line
 ax.plot([0, 1], [0.5, 0.5], transform=ax.transAxes, color="#9ca3af", linewidth=1.0, linestyle="--")
-ax.text(0.01, 0.93, "Ontology View", transform=ax.transAxes, fontsize=12, weight="bold", color="#1f2937")
-ax.text(0.01, 0.48, "Instance View", transform=ax.transAxes, fontsize=12, weight="bold", color="#1f2937")
+ax.text(0.01, 0.93, "Ontology View", transform=ax.transAxes, fontsize=36, weight="bold", color="#1f2937")
+ax.text(0.01, 0.48, "Instance View", transform=ax.transAxes, fontsize=36, weight="bold", color="#1f2937")
 
 
-png_path = Path("ADR_KG.png")
-svg_path = Path("ADR_KG.svg")
+png_path = Path("KG.png")
+svg_path = Path("KG.svg")
 plt.tight_layout()
 plt.savefig(png_path, dpi=1200)
 plt.savefig(svg_path)
 plt.close(fig)
+
 
 
