@@ -1,0 +1,154 @@
+EntityID,EntityName,ClassLabel
+E001,A case report,ADR-C001
+E002,this case report,ADR-C001
+E003,a 67-year-old male COVID-19 patient,ADR-C002
+E004,A 67-year-old male patient,ADR-C002
+E005,Itolizumab,ADR-C004
+E006,itolizumab,ADR-C004
+E007,hydrocortisone,ADR-C004
+E008,pheniramine,ADR-C004
+E009,coronavirus disease 2019 (COVID-19),ADR-C005
+E010,COVID-19,ADR-C005
+E011,cytokine release syndrome (CRS),ADR-C005
+E012,CRS,ADR-C005
+E013,secondary hemophagocytic lymphohistiocytosis,ADR-C005
+E014,pulmonary and systemic complications,ADR-C005
+E015,severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) infection,ADR-C005
+E016,psoriasis,ADR-C005
+E017,rheumatoid arthritis,ADR-C005
+E018,moderate-to-severe acute respiratory distress syndrome,ADR-C005
+E019,SARS-CoV-2 infection,ADR-C005
+E020,severe COVID-19 infection,ADR-C005
+E021,respiratory and urinary tract infections,ADR-C005
+E022,bacterial infections,ADR-C005
+E023,serious infections,ADR-C005
+E024,tubercular lymphadenitis,ADR-C005
+E025,tuberculosis,ADR-C005
+E026,septic arthritis,ADR-C005
+E027,hypertension,ADR-C005
+E028,severe allergy,ADR-C005
+E029,repetitive infections,ADR-C005
+E030,underlying diseases,ADR-C005
+E031,new infection,ADR-C005
+E032,latent infection,ADR-C005
+E033,diabetes,ADR-C005
+E034,SARS-CoV-2 virus infection,ADR-C005
+E035,tumor necrosis factor-alpha (TNF-α),ADR-C006
+E036,interleukin-1β (IL-1β),ADR-C006
+E037,IL-6,ADR-C006
+E038,interferon-gamma (IFN-γ) cytokines,ADR-C006
+E039,IFN-γ,ADR-C006
+E040,TNF-α,ADR-C006
+E041,proinflammatory cytokines,ADR-C006
+E042,itolizumab infusion-related reactions,ADR-C006
+E043,wheezing,ADR-C006
+E044,dyspnea,ADR-C006
+E045,flushing,ADR-C006
+E046,nausea,ADR-C006
+E047,urticaria,ADR-C006
+E048,cough,ADR-C006
+E049,chills,ADR-C006
+E050,rigor,ADR-C006
+E051,pruritus,ADR-C006
+E052,dizziness,ADR-C006
+E053,headache,ADR-C006
+E054,rash,ADR-C006
+E055,hypersensitivity,ADR-C006
+E056,hypersensitivity reaction to any murine proteins,ADR-C006
+E057,fever,ADR-C006
+E058,dry cough,ADR-C006
+E059,respiratory distress symptoms,ADR-C006
+E060,COVID-19 symptoms,ADR-C006
+E061,body temperature,ADR-C006
+E062,respiratory rate,ADR-C006
+E063,oxygen saturation,ADR-C006
+E064,shivering,ADR-C006
+E065,cold,ADR-C006
+E066,breathlessness,ADR-C006
+E067,gastrointestinal disturbances,ADR-C006
+E068,vomiting,ADR-C006
+E069,diarrhea,ADR-C006
+E070,inflammatory and coagulation biomarkers,ADR-C006
+E071,C-reactive protein,ADR-C006
+E072,other inflammatory and coagulation biomarkers,ADR-C006
+E073,serious ADRs,ADR-C006
+E074,CRP,ADR-C006
+E075,Ferritin,ADR-C006
+E076,Procalcitonin,ADR-C006
+E077,D-dimer,ADR-C006
+E078,LDH,ADR-C006
+E079,TLC,ADR-C006
+E080,Neutrophils,ADR-C006
+E081,ANC,ADR-C006
+E082,Leukocytes,ADR-C006
+E083,ALC,ADR-C006
+E084,Absolute neutrophil count,ADR-C006
+E085,Absolute leukocyte count,ADR-C006
+E086,Interleukin,ADR-C006
+E087,Lactate dehydrogenase,ADR-C006
+E088,Total leukocyte count,ADR-C006
+E089,mortality,ADR-C008
+E090,death,ADR-C008
+E091,rescinded,ADR-C008
+E092,resolved,ADR-C008
+E093,COVID-19,ADR-C010
+E094,diabetes,ADR-C010
+E095,hypertension,ADR-C010
+E096,SARS-CoV-2 virus infection,ADR-C010
+E097,covid-19-positive case,ADR-C010
+E098,CRS,ADR-C010
+E099,an itolizumab injection,ADR-C011
+E100,hydrocortisone injection (100 mg),ADR-C011
+E101,pheniramine injection (30 mg),ADR-C011
+E102,slow infusion (25 mL/h) of itolizumab,ADR-C011
+E103,itolizumab injection,ADR-C011
+E104,itolizumab infusion,ADR-C011
+E105,itolizumab treatment,ADR-C011
+E106,adverse drug reactions (ADRs),ADR-C012
+E107,ADRs,ADR-C012
+E108,above-mentioned ADRs,ADR-C012
+E109,itolizumab-generated ADRs,ADR-C012
+E110,ADRs developed by itolizumab treatment,ADR-C012
+E111,worsening fever,ADR-C013
+E112,dry cough,ADR-C013
+E113,respiratory distress symptoms,ADR-C013
+E114,COVID-19 symptoms,ADR-C013
+E115,elevated body temperature,ADR-C013
+E116,respiratory rate (>38/min),ADR-C013
+E117,low saturation levels of peripheral oxygen,ADR-C013
+E118,shivering,ADR-C013
+E119,chills,ADR-C013
+E120,cold,ADR-C013
+E121,a profound reduction in oxygen saturation levels,ADR-C013
+E122,breathlessness,ADR-C013
+E123,fever,ADR-C013
+E124,gastrointestinal disturbances,ADR-C013
+E125,nausea,ADR-C013
+E126,vomiting,ADR-C013
+E127,diarrhea,ADR-C013
+E128,A dramatic reduction of C-reactive protein,ADR-C013
+E129,CRP,ADR-C013
+E130,IL-6,ADR-C013
+E131,Ferritin,ADR-C013
+E132,Procalcitonin,ADR-C013
+E133,D-dimer,ADR-C013
+E134,LDH,ADR-C013
+E135,TLC,ADR-C013
+E136,Neutrophils,ADR-C013
+E137,ANC,ADR-C013
+E138,Leukocytes,ADR-C013
+E139,ALC,ADR-C013
+E140,symptomatic treatment and stoppage of itolizumab infusion rescinded the itolizumab-generated ADRs,ADR-C014
+E141,ADRs developed by itolizumab treatment were resolved after the withdrawal of itolizumab infusion and symptomatic treatment,ADR-C014
+E142,4-week,ADR-C015
+E143,"before, during, and posttherapy",ADR-C015
+E144,During the physical examination,ADR-C015
+E145,30 min before,ADR-C015
+E146,within 5 min of itolizumab injection,ADR-C015
+E147,immediately,ADR-C015
+E148,2–5 days,ADR-C015
+E149,a day before and after itolizumab infusion,ADR-C015
+E150,1 day before the itolizumab infusion,ADR-C015
+E151,1-day postitolizumab infusion,ADR-C015
+E152,following 24 h post-itolizumab treatment,ADR-C015
+E153,after the withdrawal of itolizumab infusion and symptomatic treatment,ADR-C015

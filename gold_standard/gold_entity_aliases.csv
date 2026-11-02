@@ -1,0 +1,131 @@
+﻿GoldEntityID,CanonicalLabel,EvaluationClass,Alias,AliasType,MatchPolicy
+G001,Itolizumab,Drug,itolizumab,Canonical,One-to-one normalized match; class must be compatible
+G001,Itolizumab,Drug,itolizumab injection,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G001,Itolizumab,Drug,itolizumab infusion,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G001,Itolizumab,Drug,itolizumab treatment,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G002,Hydrocortisone,Drug,hydrocortisone,Canonical,One-to-one normalized match; class must be compatible
+G002,Hydrocortisone,Drug,hydrocortisone injection,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G003,Pheniramine,Drug,pheniramine,Canonical,One-to-one normalized match; class must be compatible
+G003,Pheniramine,Drug,pheniramine injection,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G004,COVID-19,Disease/Condition,COVID-19,Canonical,One-to-one normalized match; class must be compatible
+G004,COVID-19,Disease/Condition,covid-19-positive case,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G004,COVID-19,Disease/Condition,coronavirus disease 2019,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G005,SARS-CoV-2 infection,Disease/Condition,SARS-CoV-2 infection,Canonical,One-to-one normalized match; class must be compatible
+G005,SARS-CoV-2 infection,Disease/Condition,SARS-CoV-2 virus infection,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G006,Cytokine release syndrome,Disease/Condition,cytokine release syndrome,Canonical,One-to-one normalized match; class must be compatible
+G006,Cytokine release syndrome,Disease/Condition,cytokine release syndrome (CRS),Source-supported surface variant,One-to-one normalized match; class must be compatible
+G006,Cytokine release syndrome,Disease/Condition,CRS,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G007,Secondary hemophagocytic lymphohistiocytosis,Disease/Condition,secondary hemophagocytic lymphohistiocytosis,Canonical,One-to-one normalized match; class must be compatible
+G008,Psoriasis,Disease/Condition,psoriasis,Canonical,One-to-one normalized match; class must be compatible
+G009,Rheumatoid arthritis,Disease/Condition,rheumatoid arthritis,Canonical,One-to-one normalized match; class must be compatible
+G010,Acute respiratory distress syndrome,Disease/Condition,acute respiratory distress syndrome,Canonical,One-to-one normalized match; class must be compatible
+G011,Diabetes,Disease/Condition,diabetes,Canonical,One-to-one normalized match; class must be compatible
+G012,Hypertension,Disease/Condition,hypertension,Canonical,One-to-one normalized match; class must be compatible
+G013,Respiratory tract infection,Disease/Condition,respiratory infection,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G013,Respiratory tract infection,Disease/Condition,respiratory infections,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G013,Respiratory tract infection,Disease/Condition,respiratory tract infection,Canonical,One-to-one normalized match; class must be compatible
+G014,Urinary tract infection,Disease/Condition,urinary tract infection,Canonical,One-to-one normalized match; class must be compatible
+G014,Urinary tract infection,Disease/Condition,urinary tract infections,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G015,Bacterial infection,Disease/Condition,bacterial infection,Canonical,One-to-one normalized match; class must be compatible
+G015,Bacterial infection,Disease/Condition,bacterial infections,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G016,Tuberculosis,Disease/Condition,tuberculosis,Canonical,One-to-one normalized match; class must be compatible
+G017,Tubercular lymphadenitis,Disease/Condition,tubercular lymphadenitis,Canonical,One-to-one normalized match; class must be compatible
+G018,Septic arthritis,Disease/Condition,septic arthritis,Canonical,One-to-one normalized match; class must be compatible
+G019,Severe allergy,Disease/Condition,severe allergy,Canonical,One-to-one normalized match; class must be compatible
+G020,Immunocompromised state,Disease/Condition,immunocompromised patient,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G020,Immunocompromised state,Disease/Condition,immunocompromised patients,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G020,Immunocompromised state,Disease/Condition,immunocompromised state,Canonical,One-to-one normalized match; class must be compatible
+G021,Tumor necrosis factor-alpha,Biomarker/Lab,tumor necrosis factor-alpha,Canonical,One-to-one normalized match; class must be compatible
+G021,Tumor necrosis factor-alpha,Biomarker/Lab,TNF-alpha,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G022,Interleukin-1beta,Biomarker/Lab,interleukin-1beta,Canonical,One-to-one normalized match; class must be compatible
+G022,Interleukin-1beta,Biomarker/Lab,IL-1beta,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G023,IL-6,Biomarker/Lab,IL-6,Canonical,One-to-one normalized match; class must be compatible
+G024,Interferon-gamma,Biomarker/Lab,interferon-gamma,Canonical,One-to-one normalized match; class must be compatible
+G024,Interferon-gamma,Biomarker/Lab,IFN-gamma,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G025,C-reactive protein,Biomarker/Lab,CRP,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G025,C-reactive protein,Biomarker/Lab,C-reactive protein,Canonical,One-to-one normalized match; class must be compatible
+G025,C-reactive protein,Biomarker/Lab,C-reactive protein (CRP),Source-supported surface variant,One-to-one normalized match; class must be compatible
+G026,Ferritin,Biomarker/Lab,Ferritin,Canonical,One-to-one normalized match; class must be compatible
+G027,Procalcitonin,Biomarker/Lab,Procalcitonin,Canonical,One-to-one normalized match; class must be compatible
+G028,D-dimer,Biomarker/Lab,D-dimer,Canonical,One-to-one normalized match; class must be compatible
+G029,Lactate dehydrogenase,Biomarker/Lab,LDH,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G029,Lactate dehydrogenase,Biomarker/Lab,lactate dehydrogenase,Canonical,One-to-one normalized match; class must be compatible
+G029,Lactate dehydrogenase,Biomarker/Lab,lactate dehydrogenase (LDH),Source-supported surface variant,One-to-one normalized match; class must be compatible
+G030,Total leukocyte count,Biomarker/Lab,TLC,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G030,Total leukocyte count,Biomarker/Lab,total leukocyte count,Canonical,One-to-one normalized match; class must be compatible
+G030,Total leukocyte count,Biomarker/Lab,total leukocyte count (TLC),Source-supported surface variant,One-to-one normalized match; class must be compatible
+G031,Neutrophils,Biomarker/Lab,Neutrophils,Canonical,One-to-one normalized match; class must be compatible
+G031,Neutrophils,Biomarker/Lab,Neutrophils (%),Source-supported surface variant,One-to-one normalized match; class must be compatible
+G032,Absolute neutrophil count,Biomarker/Lab,ANC,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G032,Absolute neutrophil count,Biomarker/Lab,absolute neutrophil count,Canonical,One-to-one normalized match; class must be compatible
+G032,Absolute neutrophil count,Biomarker/Lab,absolute neutrophil count (ANC),Source-supported surface variant,One-to-one normalized match; class must be compatible
+G033,Leukocytes,Biomarker/Lab,Leukocytes,Canonical,One-to-one normalized match; class must be compatible
+G033,Leukocytes,Biomarker/Lab,Leukocytes (%),Source-supported surface variant,One-to-one normalized match; class must be compatible
+G034,Absolute lymphocyte count,Biomarker/Lab,ALC,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G034,Absolute lymphocyte count,Biomarker/Lab,absolute lymphocyte count,Canonical,One-to-one normalized match; class must be compatible
+G034,Absolute lymphocyte count,Biomarker/Lab,absolute lymphocyte count (ALC),Source-supported surface variant,One-to-one normalized match; class must be compatible
+G035,CD6,Mechanism/Target,CD6,Canonical,One-to-one normalized match; class must be compatible
+G036,Anti-CD6 humanized IgG1 monoclonal antibody,Mechanism/Target,anti-CD6,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G036,Anti-CD6 humanized IgG1 monoclonal antibody,Mechanism/Target,anti-CD6 humanized IgG1 mAb,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G036,Anti-CD6 humanized IgG1 monoclonal antibody,Mechanism/Target,anti-CD6 humanized IgG1 monoclonal antibody,Canonical,One-to-one normalized match; class must be compatible
+G037,Selective inhibition of CD6,Mechanism/Target,selectively inhibiting CD6,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G037,Selective inhibition of CD6,Mechanism/Target,selective inhibition of CD6,Canonical,One-to-one normalized match; class must be compatible
+G038,Downregulation of proinflammatory cytokines,Mechanism/Target,downregulates production of proinflammatory cytokines,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G038,Downregulation of proinflammatory cytokines,Mechanism/Target,downregulates the production of proinflammatory cytokines,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G039,Inhibition of major cytokine-release pathways,Mechanism/Target,inhibiting major pathways of cytokine release,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G039,Inhibition of major cytokine-release pathways,Mechanism/Target,inhibiting the major pathways that lead to an extensive cytokine release,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G040,Wheezing,Symptom/ADR,wheezing,Canonical,One-to-one normalized match; class must be compatible
+G041,Dyspnea,Symptom/ADR,dyspnea,Canonical,One-to-one normalized match; class must be compatible
+G042,Flushing,Symptom/ADR,flushing,Canonical,One-to-one normalized match; class must be compatible
+G043,Nausea,Symptom/ADR,nausea,Canonical,One-to-one normalized match; class must be compatible
+G044,Urticaria,Symptom/ADR,urticaria,Canonical,One-to-one normalized match; class must be compatible
+G045,Cough,Symptom/ADR,cough,Canonical,One-to-one normalized match; class must be compatible
+G045,Cough,Symptom/ADR,dry cough,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G046,Chills,Symptom/ADR,chills,Canonical,One-to-one normalized match; class must be compatible
+G047,Rigor,Symptom/ADR,rigor,Canonical,One-to-one normalized match; class must be compatible
+G048,Pruritus,Symptom/ADR,pruritus,Canonical,One-to-one normalized match; class must be compatible
+G049,Dizziness,Symptom/ADR,dizziness,Canonical,One-to-one normalized match; class must be compatible
+G050,Headache,Symptom/ADR,headache,Canonical,One-to-one normalized match; class must be compatible
+G051,Rash,Symptom/ADR,rash,Canonical,One-to-one normalized match; class must be compatible
+G052,Hypersensitivity,Symptom/ADR,hypersensitivity,Canonical,One-to-one normalized match; class must be compatible
+G052,Hypersensitivity,Symptom/ADR,hypersensitivity reaction,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G052,Hypersensitivity,Symptom/ADR,hypersensitivity reaction to any murine proteins,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G053,Hypertension,Symptom/ADR,hypertension,Canonical,One-to-one normalized match; class must be compatible
+G054,Shivering,Symptom/ADR,shivering,Canonical,One-to-one normalized match; class must be compatible
+G055,Cold,Symptom/ADR,cold,Canonical,One-to-one normalized match; class must be compatible
+G056,Breathlessness,Symptom/ADR,breathlessness,Canonical,One-to-one normalized match; class must be compatible
+G057,Fever,Symptom/ADR,fever,Canonical,One-to-one normalized match; class must be compatible
+G057,Fever,Symptom/ADR,elevated body temperature,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G058,Respiratory distress,Symptom/ADR,respiratory distress,Canonical,One-to-one normalized match; class must be compatible
+G058,Respiratory distress,Symptom/ADR,respiratory distress symptoms,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G059,Oxygen saturation,Biomarker/Lab,oxygen saturation,Canonical,One-to-one normalized match; class must be compatible
+G059,Oxygen saturation,Biomarker/Lab,low oxygen saturation,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G059,Oxygen saturation,Biomarker/Lab,low saturation levels of peripheral oxygen,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G059,Oxygen saturation,Biomarker/Lab,reduced oxygen saturation,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G059,Oxygen saturation,Biomarker/Lab,reduction in oxygen saturation,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G059,Oxygen saturation,Biomarker/Lab,profound reduction in oxygen saturation levels,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G060,Gastrointestinal disturbances,Symptom/ADR,gastrointestinal disturbances,Canonical,One-to-one normalized match; class must be compatible
+G060,Gastrointestinal disturbances,Symptom/ADR,gastrointestinal disturbance,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G061,Vomiting,Symptom/ADR,vomiting,Canonical,One-to-one normalized match; class must be compatible
+G062,Diarrhea,Symptom/ADR,diarrhea,Canonical,One-to-one normalized match; class must be compatible
+G063,67-year-old male patient,Demographic/Patient,67-year-old male patient,Canonical,One-to-one normalized match; class must be compatible
+G063,67-year-old male patient,Demographic/Patient,67-year-old male,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G063,67-year-old male patient,Demographic/Patient,male,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G063,67-year-old male patient,Demographic/Patient,patient,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G064,Noninvasive ventilation,Procedure/SupportiveTherapy,noninvasive ventilation,Canonical,One-to-one normalized match; class must be compatible
+G065,Premedication,Procedure/SupportiveTherapy,premedication,Canonical,One-to-one normalized match; class must be compatible
+G066,Slow infusion,AdministrationParameter,slow infusion,Canonical,One-to-one normalized match; class must be compatible
+G067,100 mg,Measurement,100 mg,Canonical,One-to-one normalized match; class must be compatible
+G068,30 mg,Measurement,30 mg,Canonical,One-to-one normalized match; class must be compatible
+G069,25 mL/h,Measurement,25 mL/h,Canonical,One-to-one normalized match; class must be compatible
+G070,Elevated respiratory rate (>38/min),Symptom/ADR,respiratory rate,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G070,Elevated respiratory rate (>38/min),Symptom/ADR,elevated respiratory rate,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G070,Elevated respiratory rate (>38/min),Symptom/ADR,elevated respiratory rate (>38/min),Canonical,One-to-one normalized match; class must be compatible
+G070,Elevated respiratory rate (>38/min),Symptom/ADR,>38/min,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G071,Itolizumab-related adverse reactions,SuspectedADREvent,itolizumab-related adverse reactions,Canonical,One-to-one normalized match; class must be compatible
+G071,Itolizumab-related adverse reactions,SuspectedADREvent,itolizumab-generated ADRs,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G071,Itolizumab-related adverse reactions,SuspectedADREvent,above-mentioned ADRs,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G072,Within 5 min of itolizumab injection,TemporalExpression,within 5 min of itolizumab injection,Canonical,One-to-one normalized match; class must be compatible
+G072,Within 5 min of itolizumab injection,TemporalExpression,within 5 min,Source-supported surface variant,One-to-one normalized match; class must be compatible
+G073,Resolved after withdrawal and symptomatic treatment,Outcome,resolved after withdrawal and symptomatic treatment,Canonical,One-to-one normalized match; class must be compatible
+G073,Resolved after withdrawal and symptomatic treatment,Outcome,rescinded after stoppage and symptomatic treatment,Source-supported surface variant,One-to-one normalized match; class must be compatible
